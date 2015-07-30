@@ -20,6 +20,7 @@ public class AviosClientTest {
 	@Test
 	public void testAviosClient() {
 
+		//pushing a change
 		String username = System.getenv("aviosUser");
 		String password = System.getenv("aviosPass");
 		BigDecimal balance = new AviosClient(username,password).fetchBalance();
