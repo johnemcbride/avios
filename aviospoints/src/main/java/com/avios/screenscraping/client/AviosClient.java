@@ -35,6 +35,7 @@ public class AviosClient{
 	private String username; 
 	private String password;
 	
+	
     public AviosClient(String username, String password){
     	this.username=username; 
      	this.password=password;

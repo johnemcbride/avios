@@ -1,4 +1,4 @@
-package com.avios.tests;
+package com.avios;
 
 import static org.junit.Assert.*;
 
