@@ -28,5 +28,14 @@ public class AviosClientTest {
 		System.out.println("Avios = " + balance);
 	
 	}
+	
+	@Test
+	public void testDummy() {
+
+		//pushing a change
+		//again
+		assert(true);
+	
+	}
 
 }
